@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Marta Furdyna - Make Up Artist</title>
+    <link>https://furdyna-makeup.github.io/blog/</link>
+    <description>Recent content in Blogs on Marta Furdyna - Make Up Artist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-PL</language>
+    <copyright>&amp;copy; 2020 Marta Furdyna. Wszelkie prawa zastrzeżone.</copyright>
+    <lastBuildDate>Wed, 22 Jul 2020 12:52:36 +0600</lastBuildDate>
+    
+	<atom:link href="https://furdyna-makeup.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Warsztaty Makijażu Dla Profesjonalistów</title>
+      <link>https://furdyna-makeup.github.io/blog/warsztaty-makijazu-dla-profesjonalistow/</link>
+      <pubDate>Wed, 22 Jul 2020 12:52:36 +0600</pubDate>
+      
+      <guid>https://furdyna-makeup.github.io/blog/warsztaty-makijazu-dla-profesjonalistow/</guid>
+      <description>Zapraszam Cię serdecznie, jeśli chcesz przygotować się do zawodu makijażysty, a także jeśli jesteś makijażystą i chcesz podnieść swoje kwalifikacje w zakresie technik wykorzystywanych w makijażu.</description>
+    </item>
+    
+    <item>
+      <title>Jak podkreślić swoją urodę?</title>
+      <link>https://furdyna-makeup.github.io/blog/jak-podkreslic-swoja-urode/</link>
+      <pubDate>Thu, 30 Oct 2014 12:52:36 +0000</pubDate>
+      
+      <guid>https://furdyna-makeup.github.io/blog/jak-podkreslic-swoja-urode/</guid>
+      <description>Często zastanawiacie się nad tym, w jaki sposób podkreślić swoją urodę, stać się bardziej kobiecą i zauważalną przez inne osoby, zwłaszcza płeć „brzydką”.</description>
+    </item>
+    
+  </channel>
+</rss>
